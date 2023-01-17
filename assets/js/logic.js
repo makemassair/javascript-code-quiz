@@ -23,7 +23,6 @@ beginQuiz.addEventListener("click", function() {
 //     activeQuestion = Object.entries(questionsToAsk);
 // }
 
-
 // display the first question
 function printQ() {
     
