@@ -1,5 +1,6 @@
 const questionsToAsk = [
     {
+    
         question: "What is a dog?",
         answerCorrect: "An animal",
         answerWrong1: "Your accountant",

@@ -16,7 +16,6 @@ beginQuiz.addEventListener("click", function() {
     console.log(`The "start button" has been clicked`);
     quizIntro.setAttribute("class", "hide");
     question.setAttribute("class", "start");
-    
     printQ();
 })
 
